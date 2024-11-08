@@ -7,7 +7,7 @@
 
 <p align="left">
   🦄 Linguagens:
-  <img src="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019"/></a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
 </p>
 
 <p align="left">
