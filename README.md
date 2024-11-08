@@ -7,7 +7,7 @@
 
 <p align="left">
   🦄 Linguagens:
-  <img alt="Static Badge" src="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019">
+  <img alt="Static Badge" src=""C:\Users\joses\Downloads\icons8-visual-studio-code-48.png"">
 </p>
 
 <p align="left">
