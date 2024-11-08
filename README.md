@@ -13,4 +13,4 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-[![card](https://github-readme-stats.vercel.app/api?username=rauan00&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api?username=rauan00&theme=default)](https://github.com/anuraghazra/github-readme-stats)
