@@ -110,13 +110,4 @@ Temas disponíveis: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, 
 
 [![rauan00](https://github-readme-stats.vercel.app/api/top-langs/?username=rauan00&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-### Dracula
-
-[![rauan00](https://github-readme-stats.vercel.app/api?username=rauan00&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![rauan00](https://github-readme-stats.vercel.app/api/top-langs/?username=rauan00&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-- [GitHub readme stats](https://github.com/anuraghazra/github-readme-stats)
 
