@@ -6,7 +6,8 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Linguagens:
+  <img src="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019"/></a>
 </p>
 
 <p align="left">
